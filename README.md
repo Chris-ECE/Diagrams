@@ -6,4 +6,6 @@ gfkgf
 https://app.diagrams.net/?src=about#HChris-ECE%2FDiagrams%2Fmain%2FExampl%20Diagram.drawio.xml&p=ex
 https://viewer.diagrams.net/?src=about#HChris-ECE%2FDiagrams%2Fmain%2FExampl%20Diagram.drawio.xml
 &p=ex&
-https://raw.githubusercontent.com/Chris-ECE/Diagrams/dev/diagrams/schema.xml
+https://raw.githubusercontent.com/Chris-ECE/Diagrams/dev/diagrams/Exampl%20Diagram.drawio.xml
+https://raw.githubusercontent.com/Chris-ECE/Diagrams/dev/Exampl%20Diagram.drawio.xml
+https://github.com/Chris-ECE/Diagrams/blob/main/Exampl%20Diagram.drawio.xml
